@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Ejercisio3\bin\Debug\net6.0\Ejercisio3.exe
+C:\xampp\htdocs\Ejercisio3\bin\Debug\net6.0\Ejercisio3.deps.json
+C:\xampp\htdocs\Ejercisio3\bin\Debug\net6.0\Ejercisio3.runtimeconfig.json
+C:\xampp\htdocs\Ejercisio3\bin\Debug\net6.0\Ejercisio3.dll
+C:\xampp\htdocs\Ejercisio3\bin\Debug\net6.0\Ejercisio3.pdb
+C:\xampp\htdocs\Ejercisio3\obj\Debug\net6.0\Ejercisio3.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Ejercisio3\obj\Debug\net6.0\Ejercisio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Ejercisio3\obj\Debug\net6.0\Ejercisio3.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Ejercisio3\obj\Debug\net6.0\Ejercisio3.AssemblyInfo.cs
+C:\xampp\htdocs\Ejercisio3\obj\Debug\net6.0\Ejercisio3.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Ejercisio3\obj\Debug\net6.0\Ejercisio3.dll
+C:\xampp\htdocs\Ejercisio3\obj\Debug\net6.0\refint\Ejercisio3.dll
+C:\xampp\htdocs\Ejercisio3\obj\Debug\net6.0\Ejercisio3.pdb
+C:\xampp\htdocs\Ejercisio3\obj\Debug\net6.0\Ejercisio3.genruntimeconfig.cache
+C:\xampp\htdocs\Ejercisio3\obj\Debug\net6.0\ref\Ejercisio3.dll

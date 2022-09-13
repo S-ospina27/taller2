@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Trabajo\Trabajo\bin\Debug\net6.0\Trabajo.exe
+C:\Users\Usuario\source\repos\Trabajo\Trabajo\bin\Debug\net6.0\Trabajo.deps.json
+C:\Users\Usuario\source\repos\Trabajo\Trabajo\bin\Debug\net6.0\Trabajo.runtimeconfig.json
+C:\Users\Usuario\source\repos\Trabajo\Trabajo\bin\Debug\net6.0\Trabajo.dll
+C:\Users\Usuario\source\repos\Trabajo\Trabajo\bin\Debug\net6.0\Trabajo.pdb
+C:\Users\Usuario\source\repos\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.dll
+C:\Users\Usuario\source\repos\Trabajo\Trabajo\obj\Debug\net6.0\refint\Trabajo.dll
+C:\Users\Usuario\source\repos\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.pdb
+C:\Users\Usuario\source\repos\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Trabajo\Trabajo\obj\Debug\net6.0\ref\Trabajo.dll
